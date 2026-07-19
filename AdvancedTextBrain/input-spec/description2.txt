@@ -1,0 +1,33 @@
+The first memorandum was found between a takeaway menu and a warranty card for a kettle that nobody remembered buying. Its subject line said “small robot pet for the children's waiting room,” although nearly half the document discussed repainting the reception desk.
+
+The clinic does not want a medical device. It wants a specification for a tabletop interactive toy that can occupy children while they wait. The toy should resemble a friendly imaginary animal rather than a realistic dog or cat, because some children are afraid of dogs and one staff member is allergic to cats. The exact creature design has not been chosen.
+
+The toy will sit on a low table in the paediatric waiting room. Children from approximately four to eight years old may use it. The phrase “approximately” caused an argument. The clinic manager later stated that the design must be safe and understandable for ages four through eight, inclusive. That later statement controls.
+
+The device should support one active child at a time, but several children may watch. It should respond when the child presses one of several large physical buttons. A microphone was suggested and then rejected because the waiting room is noisy and the clinic does not want to record voices. A camera was also suggested and explicitly rejected. The device must have no camera, no microphone, no facial recognition, and no connection to a patient record.
+
+The toy may make short sounds, move its head, change facial expression on a small screen, or light up. These are possible interaction methods, not all mandatory. The final combination is unresolved. Whatever is selected must not include rapid flashing, startling motion, or loud sudden audio.
+
+The waiting room is cleaned several times each day. The exterior must tolerate wiping with the clinic's ordinary alcohol-based cleaning product. The exact chemical formulation of that product is not supplied, so material compatibility testing must be listed as unresolved. Fabric, fur, deep grooves, and small detachable decorations are discouraged because they are difficult to clean.
+
+The toy must not contain accessible sharp edges, pinch points, loose magnets, button batteries, exposed wiring, or pieces small enough to be a choking hazard. Children must not be able to open the battery compartment without a tool. The clinic prefers rechargeable power, but the exact battery technology and charging connector are not specified.
+
+The toy should operate for at least eight hours between charges. Someone wrote twelve hours in the margin, but the manager crossed it out and initialled the eight-hour requirement. Charging will occur overnight in a locked staff room. The device must not be used while charging.
+
+Noise matters. The waiting room also serves adults, and the receptionist answers telephone calls. Audio must have at least three volume levels and a mute mode. The maximum permitted sound level has not been measured and remains unresolved.
+
+One proposed game asked children to feed the creature coloured shapes. Another involved copying facial expressions. A third involved choosing calming breathing patterns. None was approved. The toy should provide short interactions lasting between one and three minutes, because appointments may be called unexpectedly. A child must be able to walk away at any point without causing an alarm, penalty, or distressed response from the toy.
+
+The device must not display advertisements, ask for personal information, connect children to the internet, or permit messaging. Wi-Fi might be used by staff for maintenance, but the clinic's information-security officer has not approved any wireless connection. Network connectivity is therefore unresolved, not automatically allowed. The safest offline design is an option, not a final decision.
+
+The toy should not store identifiable information. It may keep a non-identifying count of total interactions for maintenance planning, but the method, retention period, and reset procedure have not been defined. No individual child history is required.
+
+The clinic can spend no more than nine hundred Canadian dollars on the first prototype, excluding staff time. An earlier email mentioned fifteen hundred dollars for “the project,” but that amount included furniture and painting. Nine hundred dollars is the applicable prototype budget.
+
+The toy must fit on a tabletop no larger than sixty centimetres wide and forty centimetres deep. Its exact dimensions are not specified. It must be light enough for one adult staff member to move safely, but no maximum weight has been approved. It should not roll or slide when a child presses a button.
+
+Staff need a physical power switch and a simple way to mute, reset, and disable the toy. These controls should not be obvious or easily accessible to children. Whether staff controls are hidden under a cover, placed on the rear, or protected by a code is unresolved.
+
+The specification must describe intended users, environment, physical interaction, accessibility, hygiene, safety, power, sound, privacy, connectivity, staff controls, maintenance, budget, dimensions, unresolved decisions, and acceptance criteria. It must not select the creature, design the games, choose battery chemistry, invent cleaning-product specifications, approve Wi-Fi, or create technical details unsupported by this text.
+
+The second memorandum concerned the reception desk and may safely be ignored.
