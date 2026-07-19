@@ -1,4 +1,4 @@
-# Text-to-Spec Agent QA Tutorial
+# Text Brain  Agent QA Tutorial
 
 This repository is an educational, Markdown-only implementation of a spec-driven development (SSD) agent loop for **VS Code GitHub Copilot custom agents**. It converts source documents into a source-specific `spec.md` Question → Answer knowledge base, reviews that knowledge through a critic loop, and publishes only after explicit quality gates pass.
 
